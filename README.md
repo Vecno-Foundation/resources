@@ -1,4 +1,4 @@
-# Vecno Blockchain Assets
+# Vecno Blockchain Resources
 
 A collection of official logos, banners, icons, and other visual brand materials for **Vecno Blockchain** — a fast, open-source, decentralized & fully scalable Layer-1 Proof-of-Work network.
 
